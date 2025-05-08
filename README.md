@@ -22,16 +22,16 @@
 
 ### 📈 GitHub Stats
 
-![Hari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
+![Hari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prashanth-HP&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prashanth-HP&layout=compact&theme=dark)
 
 ---
 
 ### 🧠 Certifications
-- Azure Fundamentals – Microsoft  
-- Generative AI – Oracle  
-- Cloud Computing – NPTEL  
-- Data Science – PrepInsta  
+- Microsoft Azure Fundamentals  
+- Oracle Generative AI Professional  
+- NPTEL Cloud Computing  
+- PrepInsta Data Science  
 
 ---
 
