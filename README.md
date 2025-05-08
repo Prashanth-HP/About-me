@@ -8,7 +8,7 @@
 
 ---
 
-### 🌐 Connect with me
+### 🌐 Connect with meee
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hariprashanth--r/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/Prashanth-HP)
 
@@ -16,7 +16,7 @@
 
 ### 🧰 Languages and Tools
 
-<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,mysql,azure,aws,git,github,jupyter,vscode,streamlit" />
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,sql,mysql,azure,gcp,aws,git,github,jupyter,vscode,streamlit" />
 
 ---
 
