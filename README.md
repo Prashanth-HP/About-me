@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Hari</h1>
-<h3 align="center">Aspiring Software Engineer | Passionate about Python, Data Science, Cloud & AI</h3>
+<h1 align="center">Hi 👋, I'm Hari Prashanth</h1>
+<h3 align="center">Aspiring Software Engineer | Passionate about Java, Software Engineer, Cloud & AI</h3>
 
 - 🎓 Pursuing B.Tech in AI & ML at K. Ramakrishnan College of Engineering (2022–2026)  
-- ☁️ Learning GCP, Azure, and AWS (Cloud Certified)  
+- ☁️ Learning Azure (Cloud Certified)  
 - 🧠 Daily focus: DSA Practice and MEAN Stack Learning  
 - 📫 Reach me at **gowthamhari2103@gmail.com**
 
@@ -16,7 +16,7 @@
 
 ### 🧰 Languages and Tools
 
-<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,sql,mysql,azure,gcp,aws,git,github,jupyter,vscode,streamlit" />
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,mysql,azure,aws,git,github,vscode,streamlit" />
 
 ---
 
