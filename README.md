@@ -35,8 +35,7 @@
 
 ---
 
-### 🛠️ Projects
-- **SHL Assessment Recommender** – GenAI-based JD matcher  
+### 🛠️ Projects  
 - **Air & Water Pollution Analysis** – Global comparison dashboard  
 - **Facebook & Netflix EDA** – Insightful user behavior analysis  
 - **Air Quality Index (India)** – Power BI Dashboard  
