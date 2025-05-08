@@ -43,5 +43,4 @@
 ---
 
 ### 🏆 Achievements
-- 🎖️ Google Cloud Skills Boost – Champion Milestone  
 - 🧪 Completed internships with Edunet Foundation & Infosys Springboard  
