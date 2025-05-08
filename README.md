@@ -16,7 +16,7 @@
 
 ### 🧰 Languages and Tools
 
-<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,sql,mysql,azure,gcp,aws,git,github,jupyter,vscode,streamlit" />
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,mysql,azure,aws,git,github,jupyter,vscode,streamlit" />
 
 ---
 
